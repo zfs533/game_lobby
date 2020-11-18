@@ -1,0 +1,90 @@
+
+fish_24.png
+size: 336,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qian01
+  rotate: false
+  xy: 122, 101
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+qian02
+  rotate: false
+  xy: 244, 194
+  size: 90, 73
+  orig: 90, 73
+  offset: 0, 0
+  index: -1
+qian03
+  rotate: false
+  xy: 2, 82
+  size: 118, 114
+  orig: 118, 114
+  offset: 0, 0
+  index: -1
+yu1
+  rotate: true
+  xy: 316, 64
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+yu3
+  rotate: false
+  xy: 134, 72
+  size: 121, 27
+  orig: 121, 27
+  offset: 0, 0
+  index: -1
+yu4
+  rotate: false
+  xy: 257, 75
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+yu5
+  rotate: false
+  xy: 198, 21
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+yu6
+  rotate: false
+  xy: 2, 12
+  size: 130, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+yu7
+  rotate: false
+  xy: 226, 110
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+yu8
+  rotate: false
+  xy: 2, 198
+  size: 240, 69
+  orig: 240, 69
+  offset: 0, 0
+  index: -1
+yuqi3
+  rotate: true
+  xy: 134, 16
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+yuyanpi
+  rotate: false
+  xy: 198, 2
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1

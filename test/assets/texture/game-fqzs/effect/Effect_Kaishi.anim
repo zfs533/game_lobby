@@ -1,0 +1,179 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Effect_Kaishi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.6666666666666667,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Kaishi": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -1111,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0,
+              "curve": [
+                0.4,
+                0,
+                0.703396524486572,
+                0.1998420221169036
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 1111
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 255
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ksxz": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.06666666666666667,
+              "value": -914,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0,
+              "curve": [
+                0.4,
+                0,
+                0.7902843601895735,
+                0.2669826224328593
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 700
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ksxz/Mask/Tail": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.3333333333333333,
+              "value": -305
+            },
+            {
+              "frame": 1,
+              "value": 305
+            }
+          ]
+        }
+      },
+      "ksxz/ksxz": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 100
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ksxz/Shexian": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0.26666666666666666,
+                "value": 100
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 1.3333333333333333,
+                "value": 0
+              },
+              {
+                "frame": 1.4,
+                "value": 100
+              },
+              {
+                "frame": 1.5,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

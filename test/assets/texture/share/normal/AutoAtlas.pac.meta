@@ -1,0 +1,30 @@
+{
+  "ver": "1.2.0",
+  "uuid": "7f6ea619-7576-425a-add6-4b22a78aebbe",
+  "maxWidth": 1024,
+  "maxHeight": 512,
+  "padding": 1,
+  "allowRotation": true,
+  "forceSquared": false,
+  "powerOfTwo": true,
+  "algorithm": "MaxRects",
+  "format": "webp",
+  "quality": 100,
+  "contourBleed": false,
+  "paddingBleed": true,
+  "filterUnused": false,
+  "packable": false,
+  "premultiplyAlpha": false,
+  "filterMode": "bilinear",
+  "platformSettings": {
+    "default": {
+      "formats": [
+        {
+          "name": "webp",
+          "quality": 80
+        }
+      ]
+    }
+  },
+  "subMetas": {}
+}

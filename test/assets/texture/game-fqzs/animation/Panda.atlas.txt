@@ -1,0 +1,62 @@
+
+Panda.png
+size: 151,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Panda_Head
+  rotate: true
+  xy: 2, 2
+  size: 89, 83
+  orig: 89, 83
+  offset: 0, 0
+  index: -1
+Panda_L_er
+  rotate: true
+  xy: 132, 3
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Panda_L_eye
+  rotate: false
+  xy: 100, 3
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Panda_L_eye_02
+  rotate: false
+  xy: 132, 20
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Panda_Mouth
+  rotate: false
+  xy: 87, 39
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+Panda_R_er
+  rotate: false
+  xy: 87, 14
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Panda_R_eye
+  rotate: true
+  xy: 87, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Panda_R_eye_02
+  rotate: false
+  xy: 112, 16
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1

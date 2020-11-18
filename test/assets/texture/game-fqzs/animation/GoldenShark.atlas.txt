@@ -1,0 +1,34 @@
+
+GoldenShark.png
+size: 137,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GoldenShark_Body
+  rotate: true
+  xy: 2, 12
+  size: 95, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+GoldenShark_Body_02
+  rotate: true
+  xy: 87, 50
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+GoldenShark_R_eye
+  rotate: true
+  xy: 2, 2
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+GoldenShark_Tooth
+  rotate: false
+  xy: 87, 21
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,311 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Effect_VS",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.8333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Laoshizi": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -875,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": -278
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": -278
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": -900
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Laoying": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 915,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 335
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 335
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 935
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "vs": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.13333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              },
+              "curve": [
+                0.39232441234777676,
+                1.1276819597847634,
+                0.608763098272444,
+                1.1725785896346643
+              ]
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.3,
+                "y": 1.3
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Boom_01": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.16666666666666666,
+                "value": null
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": {
+                  "__uuid__": "b80eb4a8-0e5f-419c-ac0f-0960de4a5f14"
+                }
+              },
+              {
+                "frame": 0.3,
+                "value": {
+                  "__uuid__": "6b04e3d5-3781-4e25-bbca-96b467288754"
+                }
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": {
+                  "__uuid__": "1fe0bc67-7176-4d1c-8cc0-446f39aa36ef"
+                }
+              },
+              {
+                "frame": 0.43333333333333335,
+                "value": {
+                  "__uuid__": "68d64ca6-a0b5-4794-94de-29c978147d4f"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": null
+              }
+            ]
+          }
+        },
+        "props": {
+          "scale": [
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            }
+          ]
+        }
+      },
+      "Quan_05": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": [
+                0.3053271028037383,
+                0.7975700934579439,
+                0.58,
+                1
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 5,
+                "y": 5
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.23333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Particle": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 0
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": 500
+              },
+              {
+                "frame": 0.4,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "Glow": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Laoshizi/Shexian": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0.3333333333333333,
+                "value": 50
+              },
+              {
+                "frame": 0.4,
+                "value": 0
+              }
+            ]
+          }
+        }
+      },
+      "Laoying/Shexian": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0.3333333333333333,
+                "value": 50
+              },
+              {
+                "frame": 0.4,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

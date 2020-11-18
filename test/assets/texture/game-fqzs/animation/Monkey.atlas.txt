@@ -1,0 +1,55 @@
+
+Monkey.png
+size: 125,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Monkey_Head
+  rotate: true
+  xy: 2, 2
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+Monkey_L_er
+  rotate: false
+  xy: 91, 14
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+Monkey_L_eye
+  rotate: false
+  xy: 114, 64
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+Monkey_L_eye_02
+  rotate: false
+  xy: 108, 4
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Monkey_R_er
+  rotate: false
+  xy: 91, 44
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Monkey_R_eye
+  rotate: false
+  xy: 91, 2
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+Monkey_R_eye_02
+  rotate: true
+  xy: 108, 25
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1

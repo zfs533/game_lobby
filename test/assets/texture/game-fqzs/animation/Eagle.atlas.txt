@@ -1,0 +1,48 @@
+
+Eagle.png
+size: 153,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eagle_Head
+  rotate: false
+  xy: 2, 2
+  size: 80, 89
+  orig: 81, 89
+  offset: 1, 0
+  index: -1
+Eagle_Mouth
+  rotate: false
+  xy: 84, 53
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+Eagle_R_eye
+  rotate: false
+  xy: 84, 3
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+Eagle_R_eye_02
+  rotate: false
+  xy: 117, 27
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Eagle_R_meimao
+  rotate: false
+  xy: 84, 17
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Eagle_yumao
+  rotate: false
+  xy: 131, 54
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1

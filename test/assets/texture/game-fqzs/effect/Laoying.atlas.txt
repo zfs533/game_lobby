@@ -1,0 +1,62 @@
+
+Laoying.png
+size: 854,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 234, 272
+  orig: 242, 296
+  offset: 8, 0
+  index: -1
+Head
+  rotate: false
+  xy: 430, 51
+  size: 166, 223
+  orig: 166, 223
+  offset: 0, 0
+  index: -1
+L_chibang
+  rotate: false
+  xy: 598, 141
+  size: 145, 133
+  orig: 145, 133
+  offset: 0, 0
+  index: -1
+L_jio
+  rotate: false
+  xy: 745, 140
+  size: 107, 134
+  orig: 123, 161
+  offset: 0, 0
+  index: -1
+R-jio
+  rotate: false
+  xy: 598, 35
+  size: 134, 104
+  orig: 134, 110
+  offset: 0, 0
+  index: -1
+R_chibang
+  rotate: true
+  xy: 238, 18
+  size: 256, 190
+  orig: 256, 190
+  offset: 0, 0
+  index: -1
+R_eyelid
+  rotate: false
+  xy: 430, 2
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+Weiba
+  rotate: true
+  xy: 734, 44
+  size: 94, 117
+  orig: 94, 117
+  offset: 0, 0
+  index: -1

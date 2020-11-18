@@ -1,0 +1,34 @@
+
+SilverShark.png
+size: 141,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SilverShark_Body
+  rotate: true
+  xy: 2, 3
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+SilverShark_R_eye
+  rotate: true
+  xy: 124, 40
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+SilverShark_R_eyeid
+  rotate: false
+  xy: 124, 49
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+SilverShark_head
+  rotate: true
+  xy: 70, 2
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1

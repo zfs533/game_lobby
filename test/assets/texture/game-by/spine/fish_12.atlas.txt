@@ -1,0 +1,124 @@
+heji.png
+size: 330,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m1
+  rotate: false
+  xy:885,18 
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy:864,2 
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+xia0
+  rotate: false
+  xy:800,32 
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+xia1
+  rotate: true
+  xy:716,2 
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+xia10
+  rotate: false
+  xy:788,47 
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+xia11
+  rotate: false
+  xy:864,15 
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+xia12
+  rotate: false
+  xy:582,2 
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+xia13
+  rotate: false
+  xy:655,3 
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+xia14
+  rotate: true
+  xy:888,33 
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+xia15
+  rotate: true
+  xy:761,2 
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+xia16
+  rotate: false
+  xy:843,34 
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+xia2
+  rotate: false
+  xy:716,44 
+  size: 70, 16
+  orig: 70, 16
+  offset: 0, 0
+  index: -1
+xia4
+  rotate: true
+  xy:681,7 
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+xia6
+  rotate: false
+  xy:655,19 
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+xia7
+  rotate: false
+  xy:837,4 
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+xia8
+  rotate: false
+  xy:888,44 
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+xia9
+  rotate: true
+  xy:800,7 
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1

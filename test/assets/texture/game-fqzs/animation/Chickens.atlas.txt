@@ -1,0 +1,41 @@
+
+Chickens.png
+size: 156,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chickens_Crest
+  rotate: false
+  xy: 94, 39
+  size: 28, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Chickens_Head
+  rotate: true
+  xy: 2, 12
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+Chickens_Mouth
+  rotate: false
+  xy: 124, 60
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Chickens_R_eye
+  rotate: true
+  xy: 2, 2
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+Chickens_R_eye_02
+  rotate: true
+  xy: 94, 15
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1

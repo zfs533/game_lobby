@@ -1,0 +1,33 @@
+heji.png
+size: 82,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy:283,17 
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy:283,32 
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy:283,2 
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy:232,14 
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1

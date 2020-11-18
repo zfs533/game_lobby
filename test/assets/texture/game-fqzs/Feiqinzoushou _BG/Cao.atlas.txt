@@ -1,0 +1,41 @@
+
+Cao.png
+size: 103,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RHua_01
+  rotate: false
+  xy: 70, 56
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+RHua_02
+  rotate: false
+  xy: 70, 56
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+RHua_03
+  rotate: false
+  xy: 59, 2
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Wugui
+  rotate: false
+  xy: 2, 46
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+ZiHua_02
+  rotate: true
+  xy: 2, 2
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1

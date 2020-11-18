@@ -1,0 +1,76 @@
+
+Caishen.png
+size: 402,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 116
+  size: 187, 246
+  orig: 187, 246
+  offset: 0, 0
+  index: -1
+Cai
+  rotate: true
+  xy: 250, 86
+  size: 99, 139
+  orig: 99, 139
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 305
+  size: 221, 248
+  orig: 230, 256
+  offset: 9, 0
+  index: -1
+L_Shou
+  rotate: false
+  xy: 87, 8
+  size: 86, 38
+  orig: 86, 38
+  offset: 0, 0
+  index: -1
+L_Xiuzi
+  rotate: true
+  xy: 2, 50
+  size: 64, 165
+  orig: 64, 165
+  offset: 0, 0
+  index: -1
+R_Shou
+  rotate: false
+  xy: 2, 2
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+R_Xiuzi
+  rotate: false
+  xy: 252, 297
+  size: 148, 229
+  orig: 155, 229
+  offset: 0, 0
+  index: -1
+Tongqian_L
+  rotate: false
+  xy: 169, 48
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+Tongqian_R
+  rotate: false
+  xy: 247, 7
+  size: 123, 77
+  orig: 123, 77
+  offset: 0, 0
+  index: -1
+Yuanbao
+  rotate: false
+  xy: 250, 187
+  size: 140, 108
+  orig: 140, 108
+  offset: 0, 0
+  index: -1

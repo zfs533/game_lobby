@@ -1,0 +1,55 @@
+
+fish_19.png
+size: 187,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shangqi
+  rotate: false
+  xy: 107, 62
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+shangqixiao
+  rotate: true
+  xy: 168, 26
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 107, 117
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+xiaqixiao
+  rotate: false
+  xy: 134, 31
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+yu tou
+  rotate: true
+  xy: 2, 2
+  size: 56, 130
+  orig: 56, 130
+  offset: 0, 0
+  index: -1
+yushen
+  rotate: true
+  xy: 2, 60
+  size: 193, 103
+  orig: 193, 103
+  offset: 0, 0
+  index: -1
+yuwei
+  rotate: false
+  xy: 107, 172
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1

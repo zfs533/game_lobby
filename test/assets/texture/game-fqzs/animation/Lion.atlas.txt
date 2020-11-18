@@ -1,0 +1,55 @@
+
+Lion.png
+size: 156,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lion_Di
+  rotate: false
+  xy: 88, 62
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+Lion_Face
+  rotate: false
+  xy: 88, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Lion_Head
+  rotate: false
+  xy: 2, 45
+  size: 84, 90
+  orig: 92, 90
+  offset: 8, 0
+  index: -1
+Lion_R_eye
+  rotate: false
+  xy: 139, 114
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+Lion_R_eye_02
+  rotate: false
+  xy: 139, 123
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Lion_R_hir
+  rotate: true
+  xy: 2, 4
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+Lion_R_meimao
+  rotate: false
+  xy: 64, 29
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1

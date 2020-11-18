@@ -1,0 +1,33 @@
+heji.png
+size: 78,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuqi01
+  rotate: false
+  xy:210,35 
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+yuqi02
+  rotate: false
+  xy:221,33 
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+yusheng
+  rotate: false
+  xy:154,8 
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+yuwei
+  rotate: false
+  xy:154,2 
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1

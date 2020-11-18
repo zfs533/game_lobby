@@ -1,0 +1,103 @@
+heji.png
+size: 93,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy:768,460 
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+sahngqian
+  rotate: false
+  xy:768,493 
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+shangqian1
+  rotate: true
+  xy:831,527 
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy:768,523 
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy:840,495 
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+tui 1
+  rotate: false
+  xy:789,458 
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy:789,471 
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: true
+  xy:840,506 
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: false
+  xy:801,476 
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+tui5
+  rotate: false
+  xy:822,478 
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+tui6
+  rotate: true
+  xy:844,473 
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+xiaqian
+  rotate: false
+  xy:797,494 
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+xiaqian1
+  rotate: true
+  xy:821,494 
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy:831,557 
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1

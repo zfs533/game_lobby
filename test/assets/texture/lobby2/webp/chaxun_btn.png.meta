@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9770f455-f26a-4696-9d1e-36f9502809ab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 58,
+  "platformSettings": {},
+  "subMetas": {
+    "chaxun_btn": {
+      "ver": "1.0.4",
+      "uuid": "3063a566-b4f2-4e7d-bf99-481fd0a3128c",
+      "rawTextureUuid": "9770f455-f26a-4696-9d1e-36f9502809ab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 58,
+      "rawWidth": 64,
+      "rawHeight": 58,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

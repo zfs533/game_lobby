@@ -1,0 +1,62 @@
+
+Ostrich.png
+size: 154,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ostrich_Head
+  rotate: true
+  xy: 2, 14
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+Ostrich_Head_02
+  rotate: false
+  xy: 122, 24
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Ostrich_L_eyeid
+  rotate: true
+  xy: 2, 2
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+Ostrich_Mouth_01
+  rotate: false
+  xy: 87, 48
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+Ostrich_Mouth_02
+  rotate: false
+  xy: 87, 17
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Ostrich_R_eye
+  rotate: true
+  xy: 26, 3
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Ostrich_R_eye_02
+  rotate: false
+  xy: 132, 47
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+Ostrich_R_eyeid
+  rotate: true
+  xy: 122, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
