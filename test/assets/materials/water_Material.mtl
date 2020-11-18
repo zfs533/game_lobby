@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.Material",
+  "_name": "water_Material",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "50cf9d1f-05ab-4036-b9fe-d46ec2c27a3d"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true,
+        "USE_WATER": true
+      },
+      "props": {
+        "iResolution": {
+          "__type__": "cc.Vec2",
+          "x": 1264,
+          "y": 577
+        }
+      }
+    }
+  }
+}

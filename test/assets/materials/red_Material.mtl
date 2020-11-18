@@ -1,0 +1,18 @@
+{
+  "__type__": "cc.Material",
+  "_name": "red_Material",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "350fea3e-788b-47da-a70b-80e5b86e622f"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TINT": false,
+        "USE_RED": true
+      }
+    }
+  }
+}
