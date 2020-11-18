@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "liuguang",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.5,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -165,
+            -37
+          ]
+        },
+        {
+          "frame": 1.5,
+          "value": [
+            200,
+            -7
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
