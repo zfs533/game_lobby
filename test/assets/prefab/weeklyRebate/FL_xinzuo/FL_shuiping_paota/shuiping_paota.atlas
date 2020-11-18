@@ -1,0 +1,69 @@
+
+shuiping_paota.png
+size: 250,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boli
+  rotate: false
+  xy: 2, 5
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+guanzi1
+  rotate: true
+  xy: 170, 8
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+guanzi23
+  rotate: true
+  xy: 170, 20
+  size: 12, 38
+  orig: 12, 38
+  offset: 0, 0
+  index: -1
+jiapian
+  rotate: false
+  xy: 212, 15
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+jiapian2
+  rotate: false
+  xy: 63, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+paoguan
+  rotate: true
+  xy: 63, 34
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+paoguans
+  rotate: false
+  xy: 133, 12
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+paotou
+  rotate: false
+  xy: 96, 4
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 143, 34
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1

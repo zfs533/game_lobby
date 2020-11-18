@@ -1,0 +1,394 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zq_zhongjiang1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 5.333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "caigeguang_003": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 4.066666666666666,
+              "value": 150
+            },
+            {
+              "frame": 4.666666666666667,
+              "value": 150
+            },
+            {
+              "frame": 5,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.47,
+                "y": 1.47
+              }
+            },
+            {
+              "frame": 4.066666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3.02,
+                "y": 3.02
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3.48,
+                "y": 3.48
+              }
+            }
+          ]
+        }
+      },
+      "huanxingguang_004": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 4.066666666666666,
+              "value": 255
+            },
+            {
+              "frame": 4.666666666666667,
+              "value": 200
+            },
+            {
+              "frame": 5.333333333333333,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.59,
+                "y": 0.59
+              }
+            },
+            {
+              "frame": 5.333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.76,
+                "y": 0.76
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 4,
+              "value": 70
+            },
+            {
+              "frame": 5.333333333333333,
+              "value": 80
+            }
+          ]
+        }
+      },
+      "huanxingguang_006": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 4.1,
+              "value": 255
+            },
+            {
+              "frame": 4.4,
+              "value": 50
+            },
+            {
+              "frame": 4.433333333333334,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.37,
+                "y": 2.37
+              }
+            },
+            {
+              "frame": 4.066666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.4,
+                "y": 1.4
+              }
+            },
+            {
+              "frame": 4.433333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.74,
+                "y": 2.74
+              }
+            }
+          ]
+        }
+      },
+      "huanxingguang_007": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 4.066666666666666,
+              "value": 200
+            },
+            {
+              "frame": 4.466666666666667,
+              "value": 150
+            },
+            {
+              "frame": 4.666666666666667,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.75,
+                "y": 0.75
+              }
+            },
+            {
+              "frame": 4.666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.11,
+                "y": 2.11
+              }
+            }
+          ]
+        }
+      },
+      "huanxingguang_008": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 4.066666666666666,
+              "value": 255
+            },
+            {
+              "frame": 4.2,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.75,
+                "y": 0.75
+              }
+            },
+            {
+              "frame": 4.066666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.04,
+                "y": 2.04
+              }
+            },
+            {
+              "frame": 4.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.53,
+                "y": 2.53
+              }
+            }
+          ]
+        }
+      },
+      "huanxingguang_009": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 4.333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 4.666666666666667,
+              "value": 100
+            },
+            {
+              "frame": 5,
+              "value": 100
+            },
+            {
+              "frame": 5.333333333333333,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 4.333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.75,
+                "y": 0.75
+              }
+            },
+            {
+              "frame": 5.333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.12,
+                "y": 2.12
+              }
+            }
+          ]
+        }
+      },
+      "ef_lizi_001": {
+        "props": {
+          "scale": [
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.55,
+                "y": 0.55
+              },
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 4.666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.33,
+                "y": 1.33
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 4.066666666666666,
+              "value": 255
+            },
+            {
+              "frame": 4.666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ef_lizi_002": {
+        "props": {
+          "scale": [
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.55,
+                "y": 0.55
+              }
+            },
+            {
+              "frame": 4.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.93,
+                "y": 1.93
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 4.066666666666666,
+              "value": 255
+            },
+            {
+              "frame": 4.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ef_lizi_003": {
+        "props": {
+          "scale": [
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.55,
+                "y": 0.55
+              }
+            },
+            {
+              "frame": 4.333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.69,
+                "y": 1.69
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 4.066666666666666,
+              "value": 255
+            },
+            {
+              "frame": 4.333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,41 @@
+
+FL_sheshou_paota.png
+size: 85,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_01
+  rotate: false
+  xy: 42, 7
+  size: 23, 20
+  orig: 23, 21
+  offset: 0, 1
+  index: -1
+img_02
+  rotate: true
+  xy: 2, 29
+  size: 30, 78
+  orig: 31, 79
+  offset: 0, 1
+  index: -1
+img_03
+  rotate: false
+  xy: 67, 2
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+img_04
+  rotate: false
+  xy: 2, 3
+  size: 38, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+img_05
+  rotate: false
+  xy: 2, 61
+  size: 75, 75
+  orig: 76, 76
+  offset: 0, 1
+  index: -1

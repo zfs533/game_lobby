@@ -1,0 +1,13 @@
+
+mojie_weiba.png
+size: 67,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 2, 2
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1

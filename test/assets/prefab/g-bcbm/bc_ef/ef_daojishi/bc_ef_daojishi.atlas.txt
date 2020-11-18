@@ -1,0 +1,20 @@
+
+bc_ef_daojishi.png
+size: 344,193
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+bg_qz
+  rotate: true
+  xy: 193, 3
+  size: 188, 149
+  orig: 206, 182
+  offset: 0, 33
+  index: -1

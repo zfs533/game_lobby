@@ -1,0 +1,13 @@
+
+FL_shuiping_T_pao.png
+size: 34,31
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paopao123
+  rotate: false
+  xy: 2, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

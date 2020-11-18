@@ -1,0 +1,55 @@
+
+jinniuzuo_pt.png
+size: 128,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P1
+  rotate: true
+  xy: 104, 99
+  size: 40, 22
+  orig: 42, 24
+  offset: 1, 1
+  index: -1
+h1
+  rotate: true
+  xy: 102, 63
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+j1
+  rotate: false
+  xy: 2, 2
+  size: 55, 54
+  orig: 57, 56
+  offset: 1, 1
+  index: -1
+nj1
+  rotate: false
+  xy: 61, 88
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+pao tong
+  rotate: false
+  xy: 61, 58
+  size: 39, 28
+  orig: 41, 30
+  offset: 1, 1
+  index: -1
+ps1
+  rotate: false
+  xy: 2, 58
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+q1
+  rotate: true
+  xy: 59, 8
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zq_tuzi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "ef_hxguang_008": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.38,
+                "y": 0.38
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.72,
+                "y": 0.72
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.38,
+                "y": 0.38
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 200,
+              "curve": [
+                0.39967672413793104,
+                0.000969827586206895,
+                0.6030172413793103,
+                0.9990301724137931
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": 50
+            },
+            {
+              "frame": 3,
+              "value": 200
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

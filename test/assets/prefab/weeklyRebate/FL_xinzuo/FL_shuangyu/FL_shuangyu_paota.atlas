@@ -1,0 +1,27 @@
+
+FL_shuangyu_paota.png
+size: 158,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuhao
+  rotate: false
+  xy: 122, 18
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 2, 2
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+paoguan
+  rotate: true
+  xy: 68, 10
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1

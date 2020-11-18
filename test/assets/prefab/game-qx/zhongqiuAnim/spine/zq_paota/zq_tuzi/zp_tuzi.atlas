@@ -1,0 +1,41 @@
+
+zp_tuzi.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daizi
+  rotate: false
+  xy: 93, 3
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: false
+  xy: 151, 11
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: false
+  xy: 2, 7
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 52, 2
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+tuzi
+  rotate: true
+  xy: 122, 3
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1

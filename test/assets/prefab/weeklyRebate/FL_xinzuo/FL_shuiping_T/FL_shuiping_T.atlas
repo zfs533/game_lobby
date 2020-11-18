@@ -1,0 +1,20 @@
+
+FL_shuiping_T.png
+size: 80,43
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pingzi1
+  rotate: true
+  xy: 2, 2
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+shui001
+  rotate: true
+  xy: 48, 5
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1

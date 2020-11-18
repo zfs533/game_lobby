@@ -1,0 +1,76 @@
+
+Feng.png
+size: 798,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 459, 132
+  size: 222, 127
+  orig: 263, 189
+  offset: 31, 28
+  index: -1
+01
+  rotate: false
+  xy: 233, 261
+  size: 227, 125
+  orig: 263, 189
+  offset: 27, 27
+  index: -1
+02
+  rotate: false
+  xy: 233, 133
+  size: 224, 126
+  orig: 263, 189
+  offset: 29, 26
+  index: -1
+03
+  rotate: false
+  xy: 233, 9
+  size: 222, 122
+  orig: 263, 189
+  offset: 28, 27
+  index: -1
+04
+  rotate: false
+  xy: 2, 129
+  size: 229, 127
+  orig: 263, 189
+  offset: 26, 28
+  index: -1
+05
+  rotate: false
+  xy: 2, 258
+  size: 229, 128
+  orig: 263, 189
+  offset: 25, 29
+  index: -1
+06
+  rotate: false
+  xy: 2, 2
+  size: 227, 125
+  orig: 263, 189
+  offset: 26, 32
+  index: -1
+07
+  rotate: false
+  xy: 462, 261
+  size: 223, 125
+  orig: 263, 189
+  offset: 28, 33
+  index: -1
+08
+  rotate: false
+  xy: 457, 11
+  size: 222, 119
+  orig: 263, 189
+  offset: 26, 33
+  index: -1
+09
+  rotate: true
+  xy: 683, 37
+  size: 222, 113
+  orig: 263, 189
+  offset: 26, 32
+  index: -1

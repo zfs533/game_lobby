@@ -1,0 +1,62 @@
+
+FL_paota_tianxie.png
+size: 213,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_01
+  rotate: true
+  xy: 124, 28
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+img_02
+  rotate: false
+  xy: 56, 6
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+img_03
+  rotate: true
+  xy: 162, 3
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+img_04
+  rotate: false
+  xy: 124, 8
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+img_05
+  rotate: false
+  xy: 92, 17
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+img_06
+  rotate: false
+  xy: 2, 14
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+img_07
+  rotate: true
+  xy: 162, 39
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+img_08
+  rotate: true
+  xy: 92, 2
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1

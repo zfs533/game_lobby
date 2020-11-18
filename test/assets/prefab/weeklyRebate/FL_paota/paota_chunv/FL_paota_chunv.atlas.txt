@@ -1,0 +1,48 @@
+
+FL_paota_chunv.png
+size: 101,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_01
+  rotate: true
+  xy: 2, 7
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+img_02
+  rotate: false
+  xy: 2, 78
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+img_03
+  rotate: true
+  xy: 65, 89
+  size: 50, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+img_04
+  rotate: true
+  xy: 2, 36
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+img_05
+  rotate: false
+  xy: 57, 2
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+img_06
+  rotate: true
+  xy: 65, 51
+  size: 36, 34
+  orig: 37, 34
+  offset: 1, 0
+  index: -1

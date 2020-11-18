@@ -1,0 +1,48 @@
+
+paota_shuangzi.png
+size: 75,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_01
+  rotate: true
+  xy: 2, 197
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+img_02
+  rotate: false
+  xy: 2, 54
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+img_03
+  rotate: true
+  xy: 56, 89
+  size: 40, 10
+  orig: 40, 10
+  offset: 0, 0
+  index: -1
+img_04
+  rotate: true
+  xy: 2, 131
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+img_05
+  rotate: true
+  xy: 2, 2
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+img_06
+  rotate: true
+  xy: 44, 17
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1

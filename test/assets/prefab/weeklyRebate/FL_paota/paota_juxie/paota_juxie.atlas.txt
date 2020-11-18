@@ -1,0 +1,41 @@
+
+paota_juxie.png
+size: 198,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_01
+  rotate: true
+  xy: 146, 2
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+img_02
+  rotate: false
+  xy: 90, 3
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+img_03
+  rotate: false
+  xy: 146, 29
+  size: 48, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+img_04
+  rotate: true
+  xy: 2, 3
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+img_05
+  rotate: false
+  xy: 90, 24
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1

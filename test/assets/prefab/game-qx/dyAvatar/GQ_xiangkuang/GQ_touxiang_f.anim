@@ -1,0 +1,107 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GQ_touxiang_f",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.966666666666667,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "Particle_01": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -27,
+                29,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                27,
+                29,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                27,
+                -29,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -27,
+                -29,
+                0
+              ]
+            },
+            {
+              "frame": 3.966666666666667,
+              "value": [
+                -27,
+                29,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Particle_02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                27,
+                29,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -27,
+                29,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -27,
+                -29,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                27,
+                -29,
+                0
+              ]
+            },
+            {
+              "frame": 3.966666666666667,
+              "value": [
+                27,
+                29,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

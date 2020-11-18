@@ -1,0 +1,41 @@
+
+zp_paota.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dipan
+  rotate: true
+  xy: 236, 35
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+hujia
+  rotate: false
+  xy: 2, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+paoguan
+  rotate: false
+  xy: 205, 19
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+paoshen
+  rotate: true
+  xy: 116, 8
+  size: 52, 87
+  orig: 52, 87
+  offset: 0, 0
+  index: -1
+yuncai
+  rotate: false
+  xy: 2, 30
+  size: 112, 30
+  orig: 112, 30
+  offset: 0, 0
+  index: -1

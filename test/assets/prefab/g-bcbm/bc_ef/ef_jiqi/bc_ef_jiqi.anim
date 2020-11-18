@@ -1,0 +1,139 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bc_ef_jiqi",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "ef_jiqi/8b6333c3-723": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                3.389798641204834,
+                0
+              ]
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": [
+                0,
+                45.85599899291992,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                -45.143001556396484,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                0,
+                0.35649871826171875,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 237.9999999999999
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ef_jiqi/8b6333c3-724": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -45.143001556396484,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                0,
+                45.85599899291992,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ef_jiqi/ef_00012": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.503999948501587,
+                "y": 1.503999948501587
+              }
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4666666666666667,
+              "value": 123
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

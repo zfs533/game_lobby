@@ -1,0 +1,34 @@
+
+FL_shuangyu_yu1.png
+size: 42,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: true
+  xy: 2, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 2, 41
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+yupi1
+  rotate: true
+  xy: 2, 23
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+yuqi2
+  rotate: false
+  xy: 33, 62
+  size: 7, 24
+  orig: 7, 24
+  offset: 0, 0
+  index: -1

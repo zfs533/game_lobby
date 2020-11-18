@@ -1,0 +1,48 @@
+
+mojie_paota.png
+size: 127,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dajiao
+  rotate: false
+  xy: 51, 9
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+guanzi
+  rotate: false
+  xy: 2, 2
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+jia
+  rotate: true
+  xy: 51, 46
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+paoguanzi
+  rotate: true
+  xy: 103, 37
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+paotou
+  rotate: true
+  xy: 106, 7
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+xiaojiao
+  rotate: false
+  xy: 86, 5
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

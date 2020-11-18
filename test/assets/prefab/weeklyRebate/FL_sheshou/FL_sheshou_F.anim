@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "FL_sheshou_F",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.6666666666666665,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "kuangk/mask_001/Tail": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 255
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                -3.5,
+                -0.4
+              ]
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": [
+                -64.7,
+                62.2
+              ]
+            }
+          ]
+        }
+      },
+      "caigeguang_003": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 117
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "img_01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 177
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 177
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

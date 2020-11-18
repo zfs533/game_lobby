@@ -1,0 +1,82 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "FL_jinniu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "kuangk/mask_001/Tail": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -2,
+                62
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -2,
+                -66
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -2,
+                -66
+              ]
+            }
+          ]
+        }
+      },
+      "ef_ciguang_shan001": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.15,
+                "y": 0.15
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": -30
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

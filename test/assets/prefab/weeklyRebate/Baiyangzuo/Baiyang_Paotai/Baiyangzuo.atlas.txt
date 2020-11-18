@@ -1,0 +1,62 @@
+
+Baiyangzuo.png
+size: 170,63
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 9
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+L_Jiao
+  rotate: false
+  xy: 87, 29
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+R_jiao
+  rotate: false
+  xy: 118, 31
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Zhuzi_01
+  rotate: false
+  xy: 53, 29
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Zhuzi_02
+  rotate: false
+  xy: 118, 2
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Zhuzi_03
+  rotate: false
+  xy: 53, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 149, 32
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+manman
+  rotate: false
+  xy: 80, 10
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1

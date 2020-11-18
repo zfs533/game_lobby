@@ -1,0 +1,13 @@
+
+shuiping_paopao.png
+size: 37,31
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paopao
+  rotate: false
+  xy: 2, 2
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
