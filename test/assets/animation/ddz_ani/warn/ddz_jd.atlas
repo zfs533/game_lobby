@@ -1,0 +1,34 @@
+
+ddz_jd.png
+size: 126,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_icon_ld_1
+  rotate: false
+  xy: 2, 14
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+ani_icon_ld_2
+  rotate: false
+  xy: 61, 2
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+ani_icon_ld_3
+  rotate: true
+  xy: 105, 4
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+ani_icon_ld_4
+  rotate: true
+  xy: 61, 21
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1

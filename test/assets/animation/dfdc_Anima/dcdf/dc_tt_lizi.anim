@@ -1,0 +1,219 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dc_tt_lizi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {
+      "ef_lizi_001": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -10.5,
+                9.9
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -7.7,
+                10.2
+              ]
+            }
+          ]
+        }
+      },
+      "ef_lizi_002": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.9333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.4333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.9333333333333333,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.9333333333333333,
+              "value": [
+                -13,
+                -4.7
+              ]
+            },
+            {
+              "frame": 1.9333333333333333,
+              "value": [
+                -14.3,
+                -0.8
+              ]
+            }
+          ]
+        }
+      },
+      "ef_lizi_003": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.26666666666666666,
+              "value": [
+                7.7,
+                13.1
+              ]
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": [
+                10,
+                11.4
+              ]
+            }
+          ]
+        }
+      },
+      "ef_lizi_004": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                9.3,
+                -8.6
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                7,
+                -9.3
+              ]
+            }
+          ]
+        }
+      },
+      "ef_lizi_005": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.4666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -7.8,
+                -10.9
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -3.8,
+                -6.7
+              ]
+            }
+          ]
+        }
+      },
+      "ef_lizi_006": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0.6,
+                0.2
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                1.65,
+                2.4
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

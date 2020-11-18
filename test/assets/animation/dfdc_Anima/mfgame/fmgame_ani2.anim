@@ -1,0 +1,298 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fmgame_ani2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.8,
+  "sample": 25,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "xuanzhuan_ani/paizi1": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": []
+          }
+        }
+      },
+      "xuanzhuan_ani/paizi2": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": []
+          }
+        }
+      },
+      "iocn_1": {
+        "props": {
+          "opacity": [],
+          "scale": []
+        }
+      },
+      "zhexian": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ],
+          "scale": []
+        }
+      },
+      "zi1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.4,
+              "value": 255
+            },
+            {
+              "frame": 2.8,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.3,
+                "y": 2.3
+              }
+            },
+            {
+              "frame": 1.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.41,
+                "y": 2.41
+              }
+            },
+            {
+              "frame": 2.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.3,
+                "y": 2.3
+              }
+            }
+          ]
+        }
+      },
+      "xuanzhuan_ani": {
+        "props": {
+          "scale": [],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "shuzi": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 1.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.1,
+                "y": 2.1
+              }
+            },
+            {
+              "frame": 2.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": []
+        }
+      },
+      "mask2_bingge/saoguang2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.2,
+              "value": [
+                -342,
+                0
+              ]
+            },
+            {
+              "frame": 1.88,
+              "value": [
+                342,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "lizi_001": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 300
+              }
+            ]
+          }
+        }
+      },
+      "zi2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.4,
+              "value": 150
+            },
+            {
+              "frame": 2.8,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.3,
+                "y": 2.3
+              }
+            },
+            {
+              "frame": 1.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.41,
+                "y": 2.41
+              }
+            },
+            {
+              "frame": 2.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.3,
+                "y": 2.3
+              }
+            }
+          ]
+        }
+      },
+      "zhuzi1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.8,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.06,
+                "y": 1.06
+              }
+            },
+            {
+              "frame": 2.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "mask2_zi1/saoguang3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -296,
+                0
+              ]
+            },
+            {
+              "frame": 1.4,
+              "value": [
+                330,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "mask2_zi1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.06,
+                "y": 1.06
+              }
+            },
+            {
+              "frame": 2.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    },
+    "comps": {},
+    "props": {
+      "opacity": []
+    }
+  },
+  "events": []
+}

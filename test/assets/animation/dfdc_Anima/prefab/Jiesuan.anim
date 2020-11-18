@@ -1,0 +1,207 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Jiesuan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.3333333333333335,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "erGlow01": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -452.8,
+                165
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                398.4,
+                165
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 150
+            },
+            {
+              "frame": 1.5,
+              "value": 150
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "erGlow02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -458,
+                163.2
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                -458,
+                -142
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 150
+            },
+            {
+              "frame": 1.5,
+              "value": 150
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "erGlow03": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -429.4,
+                -155
+              ]
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": [
+                412,
+                -155
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 150
+            },
+            {
+              "frame": 2.5,
+              "value": 150
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "erGlow04": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                432,
+                -124
+              ]
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": [
+                432,
+                137
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 150
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": 150
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Mask02/erLiuguang": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -700,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                700,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Mask03/Liuguang": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                -253,
+                0
+              ]
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": [
+                255,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

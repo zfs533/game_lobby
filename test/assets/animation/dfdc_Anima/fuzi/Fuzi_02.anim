@@ -1,0 +1,151 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Fuzi_02",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "Fuzi": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "GlodFu": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 0
+            }
+          ],
+          "scale": []
+        }
+      },
+      "light_02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Fuzi/Fuzi": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 100
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Golw": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 100
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 100
+            },
+            {
+              "frame": 4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Particle": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 100
+              },
+              {
+                "frame": 3,
+                "value": 100
+              },
+              {
+                "frame": 3.3333333333333335,
+                "value": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

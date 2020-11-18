@@ -1,0 +1,146 @@
+
+chuntian.png
+size: 866,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111111111
+  rotate: false
+  xy: 498, 25
+  size: 64, 55
+  orig: 67, 55
+  offset: 3, 0
+  index: -1
+chuntian
+  rotate: false
+  xy: 362, 81
+  size: 300, 129
+  orig: 300, 129
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 750, 27
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: true
+  xy: 750, 104
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: true
+  xy: 563, 25
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+hua5
+  rotate: false
+  xy: 434, 20
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+hua6
+  rotate: true
+  xy: 355, 13
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+huaban
+  rotate: true
+  xy: 829, 345
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+shanba
+  rotate: true
+  xy: 733, 197
+  size: 204, 95
+  orig: 204, 95
+  offset: 0, 0
+  index: -1
+shanba1
+  rotate: true
+  xy: 663, 0
+  size: 196, 86
+  orig: 196, 86
+  offset: 0, 0
+  index: -1
+shanmian
+  rotate: false
+  xy: 0, 3
+  size: 354, 186
+  orig: 354, 186
+  offset: 0, 0
+  index: -1
+shanxiaoba
+  rotate: true
+  xy: 829, 254
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+shanxiaoba1
+  rotate: true
+  xy: 625, 30
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+shanxiaoba2
+  rotate: false
+  xy: 824, 58
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+shanxiaoba3
+  rotate: true
+  xy: 750, 1
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+shanxiaoba4
+  rotate: true
+  xy: 663, 199
+  size: 11, 54
+  orig: 11, 54
+  offset: 0, 0
+  index: -1
+shanxiaoba5
+  rotate: false
+  xy: 829, 205
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+shanxiaoba6
+  rotate: false
+  xy: 829, 303
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+zhigan1
+  rotate: false
+  xy: 362, 211
+  size: 370, 190
+  orig: 370, 190
+  offset: 0, 0
+  index: -1
+zhigan2
+  rotate: false
+  xy: 0, 190
+  size: 361, 211
+  orig: 361, 211
+  offset: 0, 0
+  index: -1

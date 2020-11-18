@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "bd4f9572-932a-4a11-bec2-d38406b93922",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 74,
+  "height": 250,
+  "platformSettings": {},
+  "subMetas": {
+    "Taril_02": {
+      "ver": "1.0.4",
+      "uuid": "d206c4c0-689a-40d9-9b3a-719926f37976",
+      "rawTextureUuid": "bd4f9572-932a-4a11-bec2-d38406b93922",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -3.5,
+      "trimX": 0,
+      "trimY": 14,
+      "width": 74,
+      "height": 229,
+      "rawWidth": 74,
+      "rawHeight": 250,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

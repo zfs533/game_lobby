@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "fd250aa6-7569-4ceb-98e4-e6ad292b081f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 168,
+  "height": 170,
+  "platformSettings": {},
+  "subMetas": {
+    "ef_glow_bian_000001": {
+      "ver": "1.0.4",
+      "uuid": "0c0c59ed-d3a7-4c8a-8270-e4f17e40239c",
+      "rawTextureUuid": "fd250aa6-7569-4ceb-98e4-e6ad292b081f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 168,
+      "height": 170,
+      "rawWidth": 168,
+      "rawHeight": 170,
+      "borderTop": 85,
+      "borderBottom": 85,
+      "borderLeft": 84,
+      "borderRight": 84,
+      "subMetas": {}
+    }
+  }
+}

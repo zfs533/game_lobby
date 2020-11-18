@@ -1,0 +1,27 @@
+
+Mubu.png
+size: 613,377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dc_img1
+  rotate: true
+  xy: 536, 1
+  size: 376, 77
+  orig: 376, 77
+  offset: 0, 0
+  index: -1
+dc_img2
+  rotate: false
+  xy: 341, 37
+  size: 194, 340
+  orig: 197, 340
+  offset: 0, 0
+  index: -1
+img_duocai
+  rotate: true
+  xy: 0, 0
+  size: 377, 340
+  orig: 377, 340
+  offset: 0, 0
+  index: -1

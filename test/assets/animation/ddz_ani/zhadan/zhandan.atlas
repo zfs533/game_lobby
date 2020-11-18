@@ -1,0 +1,90 @@
+
+zhandan.png
+size: 871,689
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 460
+  size: 250, 227
+  orig: 250, 227
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 231
+  size: 250, 227
+  orig: 250, 227
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 254, 460
+  size: 250, 227
+  orig: 250, 227
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 250, 227
+  orig: 250, 227
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 254, 231
+  size: 250, 227
+  orig: 250, 227
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 506, 460
+  size: 250, 227
+  orig: 250, 227
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 254, 2
+  size: 250, 227
+  orig: 250, 227
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 506, 231
+  size: 250, 227
+  orig: 250, 227
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 506, 2
+  size: 250, 227
+  orig: 250, 227
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 758, 221
+  size: 97, 110
+  orig: 97, 110
+  offset: 0, 0
+  index: -1
+zha
+  rotate: true
+  xy: 758, 333
+  size: 131, 111
+  orig: 131, 111
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 758, 466
+  size: 221, 98
+  orig: 221, 98
+  offset: 0, 0
+  index: -1

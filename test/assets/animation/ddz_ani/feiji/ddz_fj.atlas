@@ -1,0 +1,20 @@
+
+ddz_fj.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fj_1
+  rotate: false
+  xy: 2, 80
+  size: 229, 127
+  orig: 229, 127
+  offset: 0, 0
+  index: -1
+fj_3
+  rotate: false
+  xy: 2, 2
+  size: 155, 76
+  orig: 155, 76
+  offset: 0, 0
+  index: -1

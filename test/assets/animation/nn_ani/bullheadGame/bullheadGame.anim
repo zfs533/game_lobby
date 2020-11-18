@@ -1,0 +1,297 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bullheadGame",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bg_animation_05.1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.041666666666666664,
+              "value": 255
+            },
+            {
+              "frame": 0.2916666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.7083333333333334,
+              "value": 0
+            }
+          ],
+          "width": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.2916666666666667,
+              "value": 160
+            }
+          ],
+          "height": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.2916666666666667,
+              "value": 160
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2916666666666667,
+              "value": -120
+            },
+            {
+              "frame": 0.7083333333333334,
+              "value": -190
+            }
+          ]
+        }
+      },
+      "bg_jiesuan_03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.4583333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.25,
+              "value": 0.1
+            },
+            {
+              "frame": 0.4583333333333333,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.25,
+              "value": 0.1
+            },
+            {
+              "frame": 0.4583333333333333,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.2
+            }
+          ]
+        }
+      },
+      "bg_jiesuan_02": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.2
+            },
+            {
+              "frame": 0.625,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.2
+            },
+            {
+              "frame": 0.625,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.08333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.625,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bg_animation_05.2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 21.7
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 21.4
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.041666666666666664,
+              "value": 255
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1.125,
+              "value": 0
+            }
+          ],
+          "width": [
+            {
+              "frame": 0,
+              "value": 128
+            },
+            {
+              "frame": 0.5416666666666666,
+              "value": 80
+            }
+          ],
+          "height": [
+            {
+              "frame": 0,
+              "value": 123
+            },
+            {
+              "frame": 0.5416666666666666,
+              "value": 80
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": -180
+            },
+            {
+              "frame": 1.125,
+              "value": -230
+            }
+          ]
+        }
+      },
+      "bg_animation_05.3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.0416666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.25,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg_animation_05.4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.0416666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.25,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg_gold_03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.041666666666666664,
+              "value": 255
+            },
+            {
+              "frame": 0.375,
+              "value": 0
+            },
+            {
+              "frame": 0.7083333333333334,
+              "value": 255
+            },
+            {
+              "frame": 0.9583333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.2916666666666667,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

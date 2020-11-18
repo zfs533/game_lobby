@@ -1,0 +1,365 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "JuBaoPen",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.1666666666666665,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {
+      "Pen/Gai": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                22.8,
+                31.4
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                22.8,
+                31.4
+              ],
+              "motionPath": [
+                [
+                  27.1,
+                  64.3,
+                  50.4,
+                  48.9,
+                  26.6,
+                  64.5
+                ],
+                [
+                  25.5,
+                  64.9,
+                  26,
+                  64.7,
+                  -3.6,
+                  75.1
+                ]
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                0,
+                48.4
+              ]
+            },
+            {
+              "frame": 2.933333333333333,
+              "value": [
+                0,
+                48.4
+              ]
+            },
+            {
+              "frame": 3.1666666666666665,
+              "value": [
+                0,
+                300
+              ],
+              "motionPath": []
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 0.9
+              }
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 0.9
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -25
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -25
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -30
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 20,
+              "curve": "cubicInOut"
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Pen": {
+        "props": {
+          "skewX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": -3
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 2
+            },
+            {
+              "frame": 2,
+              "value": -2
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 0.95
+              }
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 0.9
+              }
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 0.95
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 0.7
+              }
+            },
+            {
+              "frame": 2.933333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "Pen/Gold": {
+        "comps": {
+          "cc.ParticleSystem": {
+            "emissionRate": [
+              {
+                "frame": 0,
+                "value": 0
+              },
+              {
+                "frame": 2.933333333333333,
+                "value": 0
+              },
+              {
+                "frame": 3,
+                "value": 1000
+              }
+            ]
+          }
+        }
+      },
+      "Pen/Pen": {
+        "props": {
+          "scale": [
+            {
+              "frame": 2.933333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3.033333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.9,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 3.1333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "Pen/Pen/JinbiGlow": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Pen/Pen/JIbi": {
+        "props": {
+          "opacity": []
+        }
+      }
+    }
+  },
+  "events": []
+}

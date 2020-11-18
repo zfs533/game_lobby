@@ -1,0 +1,259 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dealerGame",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8,
+  "sample": 35,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bg_head_2ef": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.11428571428571428,
+              "value": 255
+            },
+            {
+              "frame": 0.4857142857142857,
+              "value": 0
+            }
+          ],
+          "width": [
+            {
+              "frame": 0,
+              "value": 200
+            },
+            {
+              "frame": 0.11428571428571428,
+              "value": 110
+            }
+          ],
+          "height": [
+            {
+              "frame": 0,
+              "value": 244
+            },
+            {
+              "frame": 0.11428571428571428,
+              "value": 134
+            }
+          ]
+        }
+      },
+      "bg_head_3.1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 200
+            },
+            {
+              "frame": 0.7142857142857143,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg_head_3ef": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 120
+            },
+            {
+              "frame": 0.2,
+              "value": 220
+            },
+            {
+              "frame": 0.2857142857142857,
+              "value": 112
+            }
+          ],
+          "height": [
+            {
+              "frame": 0,
+              "value": 120
+            },
+            {
+              "frame": 0.2,
+              "value": 244
+            },
+            {
+              "frame": 0.2857142857142857,
+              "value": 134
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.2857142857142857,
+              "value": 153
+            },
+            {
+              "frame": 0.5428571428571428,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg_head_3.2": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 220
+            },
+            {
+              "frame": 0.2571428571428571,
+              "value": 330
+            },
+            {
+              "frame": 0.4857142857142857,
+              "value": 110
+            },
+            {
+              "frame": 0.6,
+              "value": 220
+            },
+            {
+              "frame": 0.8,
+              "value": 110
+            }
+          ],
+          "height": [
+            {
+              "frame": 0,
+              "value": 244
+            },
+            {
+              "frame": 0.2571428571428571,
+              "value": 360
+            },
+            {
+              "frame": 0.4857142857142857,
+              "value": 134
+            },
+            {
+              "frame": 0.6,
+              "value": 244
+            },
+            {
+              "frame": 0.8,
+              "value": 134
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2571428571428571,
+              "value": 0
+            },
+            {
+              "frame": 0.4857142857142857,
+              "value": 255
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "btn_zhuang.1": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 300
+            },
+            {
+              "frame": 0.17142857142857143,
+              "value": 49
+            }
+          ],
+          "height": [
+            {
+              "frame": 0,
+              "value": 300
+            },
+            {
+              "frame": 0.17142857142857143,
+              "value": 50
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.17142857142857143,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "btn_zhuang.2": {
+        "props": {
+          "width": [
+            {
+              "frame": 0.2571428571428571,
+              "value": 49
+            },
+            {
+              "frame": 0.5428571428571428,
+              "value": 150
+            }
+          ],
+          "height": [
+            {
+              "frame": 0.2571428571428571,
+              "value": 50
+            },
+            {
+              "frame": 0.5428571428571428,
+              "value": 150
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.22857142857142856,
+              "value": 0
+            },
+            {
+              "frame": 0.2571428571428571,
+              "value": 153
+            },
+            {
+              "frame": 0.5428571428571428,
+              "value": 0
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

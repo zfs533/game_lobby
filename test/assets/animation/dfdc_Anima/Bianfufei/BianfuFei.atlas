@@ -1,0 +1,20 @@
+
+BianfuFei.png
+size: 41,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bianfu
+  rotate: false
+  xy: 0, 67
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+Chibang
+  rotate: false
+  xy: 0, 0
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1

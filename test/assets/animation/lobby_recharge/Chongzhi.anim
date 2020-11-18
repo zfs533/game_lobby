@@ -1,0 +1,153 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Chongzhi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "Mask/Liuguang": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -73,
+                43.7
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -73,
+                43.7
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                60.8,
+                -34.4
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                60.8,
+                -34.4
+              ]
+            }
+          ]
+        }
+      },
+      "Mask/Light01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 150
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 200
+            },
+            {
+              "frame": 2,
+              "value": 150
+            },
+            {
+              "frame": 3,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Mask/Light02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 150
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 200
+            },
+            {
+              "frame": 2,
+              "value": 150
+            },
+            {
+              "frame": 3,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Mask/Light03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 150
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 200
+            },
+            {
+              "frame": 2,
+              "value": 150
+            },
+            {
+              "frame": 3,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Mask/Light04": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 150
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 200
+            },
+            {
+              "frame": 2,
+              "value": 150
+            },
+            {
+              "frame": 3,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

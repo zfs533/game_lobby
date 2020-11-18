@@ -1,0 +1,349 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jh_golden",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.5,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bg_sz2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg_sz1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bg_jh1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 2
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.7,
+              "value": 1.2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 2
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.7,
+              "value": 1.2
+            }
+          ]
+        }
+      },
+      "bg_jh2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1.5
+            },
+            {
+              "frame": 0.8,
+              "value": 0.8
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1.5
+            },
+            {
+              "frame": 0.8,
+              "value": 0.8
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "bg_jh3": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1.5
+            },
+            {
+              "frame": 0.8,
+              "value": 0.8
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1.5
+            },
+            {
+              "frame": 0.8,
+              "value": 0.8
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "bg_hp2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bg_f1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.7666666666666667,
+              "value": -3
+            },
+            {
+              "frame": 1,
+              "value": -6
+            },
+            {
+              "frame": 1.2333333333333334,
+              "value": -3
+            },
+            {
+              "frame": 1.4666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.7,
+              "value": -3
+            },
+            {
+              "frame": 1.9333333333333333,
+              "value": -6
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": -3
+            },
+            {
+              "frame": 2.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg_01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.6333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 3
+            },
+            {
+              "frame": 1.1,
+              "value": 6
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 3
+            },
+            {
+              "frame": 1.5666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.8,
+              "value": 3
+            },
+            {
+              "frame": 2.033333333333333,
+              "value": 6
+            },
+            {
+              "frame": 2.2666666666666666,
+              "value": 3
+            },
+            {
+              "frame": 2.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "wz_sj": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 255
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.7,
+              "value": 2
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.7,
+              "value": 2
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "bg_h": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.9,
+              "value": 0
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

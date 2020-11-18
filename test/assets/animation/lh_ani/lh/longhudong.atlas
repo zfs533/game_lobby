@@ -1,0 +1,174 @@
+
+longhudong.png
+size: 961,898
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diseguang
+  rotate: false
+  xy: 612, 6
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+houtou
+  rotate: true
+  xy: 796, 309
+  size: 161, 163
+  orig: 161, 163
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: false
+  xy: 356, 208
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+huangguang1
+  rotate: true
+  xy: 155, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+humaofa
+  rotate: false
+  xy: 809, 506
+  size: 105, 101
+  orig: 105, 101
+  offset: 0, 0
+  index: -1
+hushen
+  rotate: false
+  xy: 2, 150
+  size: 352, 376
+  orig: 352, 376
+  offset: 0, 0
+  index: -1
+hushou1
+  rotate: true
+  xy: 829, 719
+  size: 177, 110
+  orig: 177, 110
+  offset: 0, 0
+  index: -1
+hushou2
+  rotate: true
+  xy: 814, 51
+  size: 171, 68
+  orig: 171, 68
+  offset: 0, 0
+  index: -1
+huyan1
+  rotate: false
+  xy: 356, 514
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+huyan2
+  rotate: false
+  xy: 941, 888
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+huyun
+  rotate: false
+  xy: 374, 674
+  size: 453, 222
+  orig: 453, 222
+  offset: 0, 0
+  index: -1
+huzui
+  rotate: true
+  xy: 884, 150
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+languang
+  rotate: true
+  xy: 614, 208
+  size: 256, 180
+  orig: 256, 180
+  offset: 0, 0
+  index: -1
+languang1
+  rotate: false
+  xy: 170, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+longshen
+  rotate: false
+  xy: 2, 528
+  size: 370, 368
+  orig: 370, 368
+  offset: 0, 0
+  index: -1
+longshoi1
+  rotate: false
+  xy: 796, 224
+  size: 128, 83
+  orig: 128, 83
+  offset: 0, 0
+  index: -1
+longxu
+  rotate: true
+  xy: 751, 472
+  size: 200, 56
+  orig: 200, 56
+  offset: 0, 0
+  index: -1
+longyan
+  rotate: false
+  xy: 310, 141
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+longyun
+  rotate: false
+  xy: 374, 466
+  size: 375, 206
+  orig: 375, 206
+  offset: 0, 0
+  index: -1
+longzui
+  rotate: true
+  xy: 829, 609
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1
+loutou
+  rotate: false
+  xy: 356, 11
+  size: 254, 195
+  orig: 254, 195
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 155, 14
+  size: 153, 134
+  orig: 153, 134
+  offset: 0, 0
+  index: -1
+tx
+  rotate: false
+  xy: 884, 84
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+v
+  rotate: true
+  xy: 2, 6
+  size: 142, 151
+  orig: 142, 151
+  offset: 0, 0
+  index: -1

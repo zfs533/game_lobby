@@ -1,0 +1,287 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jh_leopart",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.7,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bg_sz2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 3.7
+            }
+          ]
+        }
+      },
+      "bg_sz1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bg_hp2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.36666666666666664,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 1.8
+            },
+            {
+              "frame": 0.6,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.36666666666666664,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 1.8
+            },
+            {
+              "frame": 0.6,
+              "value": 2
+            }
+          ]
+        }
+      },
+      "bg_bz": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.5333333333333333,
+              "value": 2
+            },
+            {
+              "frame": 0.7,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5333333333333333,
+              "value": 2
+            },
+            {
+              "frame": 0.7,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bg_f1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -3
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": -6
+            },
+            {
+              "frame": 1.3,
+              "value": -3
+            },
+            {
+              "frame": 1.5333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.7666666666666666,
+              "value": -3
+            },
+            {
+              "frame": 2,
+              "value": -6
+            },
+            {
+              "frame": 2.2333333333333334,
+              "value": -3
+            },
+            {
+              "frame": 2.466666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg_01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.9,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 3
+            },
+            {
+              "frame": 1.3,
+              "value": 6
+            },
+            {
+              "frame": 1.5333333333333334,
+              "value": 3
+            },
+            {
+              "frame": 1.7666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 3
+            },
+            {
+              "frame": 2.2333333333333334,
+              "value": 6
+            },
+            {
+              "frame": 2.466666666666667,
+              "value": 3
+            },
+            {
+              "frame": 2.7,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "wz_01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.8,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 2
+            },
+            {
+              "frame": 1,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 2
+            },
+            {
+              "frame": 1,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "bg_h": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

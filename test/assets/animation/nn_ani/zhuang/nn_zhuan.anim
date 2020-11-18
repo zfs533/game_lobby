@@ -1,0 +1,235 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "nn_zhuan",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8,
+  "sample": 35,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bg_head_2ef": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2
+            },
+            {
+              "frame": 0.14285714285714285,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            },
+            {
+              "frame": 0.14285714285714285,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.14285714285714285,
+              "value": 255
+            },
+            {
+              "frame": 0.5142857142857142,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg_head_3.1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.42857142857142855,
+              "value": 200
+            },
+            {
+              "frame": 0.7142857142857143,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg_head_3ef": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.2,
+              "value": 2
+            },
+            {
+              "frame": 0.2857142857142857,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.2,
+              "value": 2
+            },
+            {
+              "frame": 0.2857142857142857,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.2857142857142857,
+              "value": 150
+            },
+            {
+              "frame": 0.5428571428571428,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg_head_3.2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.2,
+              "value": 2
+            },
+            {
+              "frame": 0.4857142857142857,
+              "value": 1
+            },
+            {
+              "frame": 0.6,
+              "value": 1
+            },
+            {
+              "frame": 0.8,
+              "value": 1.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.2,
+              "value": 2
+            },
+            {
+              "frame": 0.4857142857142857,
+              "value": 1
+            },
+            {
+              "frame": 0.6,
+              "value": 1
+            },
+            {
+              "frame": 0.8,
+              "value": 1.5
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.4857142857142857,
+              "value": 255
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ico_zj.1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 3
+            },
+            {
+              "frame": 0.17142857142857143,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 3
+            },
+            {
+              "frame": 0.17142857142857143,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.17142857142857143,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ico_zj.1.2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.2571428571428571,
+              "value": 1
+            },
+            {
+              "frame": 0.5428571428571428,
+              "value": 3
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.2571428571428571,
+              "value": 1
+            },
+            {
+              "frame": 0.5428571428571428,
+              "value": 3
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.22857142857142856,
+              "value": 0
+            },
+            {
+              "frame": 0.2571428571428571,
+              "value": 255
+            },
+            {
+              "frame": 0.5428571428571428,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

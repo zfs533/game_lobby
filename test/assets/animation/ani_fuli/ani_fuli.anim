@@ -1,0 +1,195 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani_fuli",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.533333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "chun": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                5.8,
+                2.3
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                51.4,
+                56
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 230
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.85,
+                "y": 0.85
+              }
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.3,
+                "y": 0.3
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": -180
+            }
+          ]
+        }
+      },
+      "chun_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.8666666666666667,
+              "value": [
+                -13.3,
+                7.4
+              ]
+            },
+            {
+              "frame": 2.533333333333333,
+              "value": [
+                -61.9,
+                46.6
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.8666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.2,
+              "value": 230
+            },
+            {
+              "frame": 1.9,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.8666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.85,
+                "y": 0.85
+              }
+            },
+            {
+              "frame": 2.533333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.3,
+                "y": 0.3
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.8666666666666667,
+              "value": 32
+            },
+            {
+              "frame": 2.533333333333333,
+              "value": -180
+            }
+          ]
+        }
+      },
+      "star_light1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": -90
+            }
+          ]
+        }
+      },
+      "star_light2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": -90
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

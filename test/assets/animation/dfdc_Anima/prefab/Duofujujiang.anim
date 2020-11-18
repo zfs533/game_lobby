@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Duofujujiang",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "DuofuJujiang/Mask/Liuguang": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                -289.4,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                311,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                311,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

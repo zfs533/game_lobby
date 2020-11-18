@@ -1,0 +1,111 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mask_ef",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "mask/ef_glow_saoguang_00000": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -97.8,
+                108.2
+              ]
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": [
+                110.5,
+                -86.9
+              ]
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": [
+                323,
+                125
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                122,
+                328
+              ]
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": [
+                -97.8,
+                108.2
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                110.5,
+                -86.9
+              ]
+            }
+          ]
+        }
+      },
+      "g_z1 - 001": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 100
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 100
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ef_glow_bian_00000": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 255
+            },
+            {
+              "frame": 1.7666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
