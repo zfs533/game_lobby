@@ -1,0 +1,63 @@
+.DS_Store
+library/
+local/
+temp/
+update-package/
+build/
+# !/build/jsb-default
+# !/build/.cocos-project.json
+# /build/jsb-default/*
+# !/build/jsb-default/.cocos-project.json
+# !/build/jsb-default/frameworks
+# /build/jsb-default/frameworks/cocos2d-x/*
+# !/build/jsb-default/frameworks/cocos2d-x/extensions
+# /build/jsb-default/frameworks/cocos2d-x/extensions/*
+# !/build/jsb-default/frameworks/cocos2d-x/extensions/assets-manager
+# /build/jsb-default/frameworks/cocos2d-x/extensions/assets-manager/*
+# !/build/jsb-default/frameworks/cocos2d-x/extensions/assets-manager/AssetsManagerEx.cpp
+# !/build/jsb-default/frameworks/cocos2d-x/extensions/assets-manager/Manifest.cpp
+# !/build/jsb-default/frameworks/cocos2d-x/extensions/assets-manager/Manifest.h
+
+# !/build/jsb-default/frameworks/cocos2d-x/cocos
+# /build/jsb-default/frameworks/cocos2d-x/cocos/*
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/ui
+# /build/jsb-default/frameworks/cocos2d-x/cocos/ui/*
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/ui/edit-box
+# /build/jsb-default/frameworks/cocos2d-x/cocos/ui/edit-box/*
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/ui/edit-box/EditBox-android.cpp
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/ui/edit-box/EditBox-ios.mm
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/ui/edit-box/EditBox.h
+
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform
+# /build/jsb-default/frameworks/cocos2d-x/cocos/platform/*
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/ios
+# /build/jsb-default/frameworks/cocos2d-x/cocos/platform/ios/*
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/ios/CCEAGLView-ios.h
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/ios/CCEAGLView-ios.mm
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/ios/CCModuleConfigIOS.debug.xcconfig
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/ios/CCModuleConfigIOS.release.xcconfig
+
+
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android
+# /build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/*
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java
+# /build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/*
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/src
+# /build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/src/*
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/src/org
+# /build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/src/org/*
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/src/org/cocos2dx
+# /build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/src/org/cocos2dx/*
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/src/org/cocos2dx/lib
+# /build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/src/org/cocos2dx/lib/*
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/src/org/cocos2dx/lib/Cocos2dxActivity.java
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/src/org/cocos2dx/lib/Cocos2dxDownloader.java
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/src/org/cocos2dx/lib/Cocos2dxEditBox.java
+# !/build/jsb-default/frameworks/cocos2d-x/cocos/platform/android/java/src/org/cocos2dx/lib/Cocos2dxGLSurfaceView.java
+
+# /build/jsb-default/frameworks/runtime-src/*
+# !/build/jsb-default/frameworks/runtime-src/Classes
+# !/build/jsb-default/frameworks/runtime-src/proj.android-studio
+# !/build/jsb-default/frameworks/runtime-src/proj.ios_mac
+/.vscode
+/packages
